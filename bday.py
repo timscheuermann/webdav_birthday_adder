@@ -1,9 +1,5 @@
 from getpass import getpass
 from webdav3.client import Client
-#from webdav3.client import Client
-#test
-#Test3
-#Test4
 
 option = {
     'webdav_hostname': "https://timscheuermann.ddns.net/remote.php/dav/calendars/admin/geburtstage/",
